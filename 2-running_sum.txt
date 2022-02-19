@@ -1,4 +1,0 @@
-input x
-intialize sum from zero
-add s on sum and store in sum until negative number appear
-display sum
