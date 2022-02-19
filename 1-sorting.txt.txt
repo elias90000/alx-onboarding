@@ -1,6 +1,0 @@
-input three numbers
-store them in a list index
-compare the first number with its negihbor
-if it is less swap position
-display the list
-
