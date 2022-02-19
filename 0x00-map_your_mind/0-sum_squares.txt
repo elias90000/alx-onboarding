@@ -1,0 +1,4 @@
+pseudo code
+input two numbers from user
+add and store the square of the numbes as sum
+display sum
